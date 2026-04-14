@@ -23,6 +23,6 @@ Bu proje, bir yazılım ekibinin (Developer ve Tester) iş akışını **SimPy**
 * Uygulama üzerinden yazılımcı sayısı sabit tutulup test uzmanı sayısı değiştirildiğinde, sistemdeki darboğazın (bottleneck) nasıl yer değiştirdiği gözlemlenebilir. Ortalama bekleme süresindeki değişimler üzerinden "optimum ekip yapısı" maliyet/performans ekseninde analiz edilebilir.
 
 ## Görsel Sonuçlar
-![Ekran Görüntüsü-1](simulation_ss1.png)
+![Ekran Görüntüsü-1](simulation_ss1.jpg)
 
-![Ekran Görüntüsü-2](simulation_ss2.png)
+![Ekran Görüntüsü-2](simulation_ss2.jpg)
