@@ -1,4 +1,4 @@
-# 🚀 SDCS: Gelişmiş Yazılım Süreç Simülasyonu (Final Sürümü)
+# 🚀 SDCS: Gelişmiş Yazılım Süreç Simülasyonu
 
 Bu proje, bir yazılım organizasyonunun (Senior/Junior Geliştiriciler ve Test Uzmanları) iş akışını **SimPy** kütüphanesi kullanarak modelleyen gelişmiş bir **Kesikli Olay Benzetimi (Discrete Event Simulation)** çalışmasıdır.
 
