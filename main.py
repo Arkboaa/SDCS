@@ -5,9 +5,9 @@ import pandas as pd
 
 gelistirici= 6
 test_uzmani = 1
-gorev_araligi = 120
+gorev_araligi = 70
 gorev_suresi = (240, 960)
-test_suresi = (60, 180)
+test_suresi = (120, 320)
 
 data = []
 
